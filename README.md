@@ -14,7 +14,7 @@ Voici le premier rapport de survey que j’ai déjà lu. Vous pouvez le consulte
 
 ## 📚 Survey lu  
 J’ai également lu le survey suivant sur le biais et l’équité en Machine Learning :  
-🔗 **[A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/abs/1908.09635)**  
+🔗 **[A Survey on Bias and Fairness in Machine Learning](https://arxiv.org/pdf/1908.09635)**  
 
 N’hésitez pas à me faire un retour sur le contenu du rapport.  
 
